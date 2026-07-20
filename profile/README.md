@@ -1,6 +1,6 @@
 # N1neTails Lab
 
-Welcome to **N1neTails Lab** 🦊
+Welcome to **N1netails Lab** 🦊
 
 N1neTails Lab is a centralized collection of intentionally vulnerable applications and security labs designed for learning, security research, and evaluating application security tools.
 

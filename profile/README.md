@@ -1,6 +1,6 @@
 # N1neTails Lab
 
-Welcome to **N1neTails Lab** 🦊
+Welcome to **N1netails Lab** 🦊
 
 N1neTails Lab is an application security research organization. It hosts **forks of real open source applications** used as subjects for AppSec analysis — static analysis, dependency and supply chain review, secure code review, and security tooling evaluation.
 
